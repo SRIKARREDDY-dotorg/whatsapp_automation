@@ -1,0 +1,3 @@
+python
+
+pywhatkit==5.3
